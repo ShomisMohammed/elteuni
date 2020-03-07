@@ -1,0 +1,50 @@
+
+*{
+	text-align: center;
+}
+
+.header{
+	height:100vh;
+}
+
+body {
+	background-color: #2a3166;
+}
+
+.container{
+	margin-top: 100px;	
+}
+
+h1,h3,p{
+	margin-top: 10px;
+	font-family: "Times New Roman", Times, serif;
+	color: #ffffff;
+}	
+
+b{
+	color:#2a3166;
+}
+.description{
+	margin-top: 40px;
+	font-size: 18px;
+}
+
+.small-text{
+	background-color: gray;
+	margin-right: 15%;
+	margin-left: 15%;
+	font-family: 'Red Hat Display', sans-serif;
+}
+
+.list-group-item{
+	
+	margin-left: 15%;
+	margin-right: 15%;
+	font-family: 'Alegreya', serif;
+}
+
+
+.pages_title{
+	margin-top: 80px;
+	color: #ffffff;
+}
